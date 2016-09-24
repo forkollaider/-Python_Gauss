@@ -8,8 +8,8 @@ a = numpy.array([[1., 2, 1, 1],
                # [ 0.,   1.,  -1.5,  1.5],
                # [ 0.,   0.,   1.,   1. ]])
 print(a)
-print("\n")
+#print("\n")
 
 b = gauss.gaussFunc(a)
-print("Ответ:")
+#print("Ответ:")
 print(b)
